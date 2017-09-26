@@ -7,7 +7,10 @@ import java.sql.Statement;
 import java.util.Date;
 
 import com.mysql.jdbc.StringUtils;
-
+/**
+ * 
+ * @author zfr11
+ */
 public class Main {
 	public static void main(String[] args){
 		boolean flg = false;
