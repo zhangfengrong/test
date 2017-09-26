@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: ./lib/javax.mail_1.6.0.jar ./lib/mysql-connector-java-5.1.26-bin.jar
+Main-Class: clud.zhangfr.raspberry.Main
