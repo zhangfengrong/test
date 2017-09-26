@@ -14,10 +14,6 @@ import com.mysql.jdbc.StringUtils;
 
 /**
  *
- * @anthor leo
- * @date 2016年6月27日下午12:40:14
- * @description
- *
  **/
 
 public class Main {
